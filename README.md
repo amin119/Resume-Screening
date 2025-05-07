@@ -14,7 +14,8 @@ A machine learning application that automatically categorizes resumes into job c
    - clf.pkl (Classifier)
    - tfidf.pkl (Vectorizer) 
    - encoder.pkl (Label Encoder)
-     [This is the link to the 3 pkl files] https://drive.google.com/drive/folders/1_PB8KafR72P7d6x6_t2XcA31r2S9oX57?usp=sharing 
+
+ [This is the link to the 3 pkl files] https://drive.google.com/drive/folders/1_PB8KafR72P7d6x6_t2XcA31r2S9oX57?usp=sharing 
 
 2. **Install requirements**:
    ```bash
